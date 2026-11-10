@@ -1,0 +1,9 @@
+component,unit,net_qty,waste_rate,unit_price
+Polyester mesh,m2,0.55,0.1,2.4
+Woven polyester,m2,0.35,0.1,3.2
+Reflective tape,m,4.0,0.05,0.38
+Edge binding,m,5.0,0.05,0.08
+Front zipper,piece,1.0,0.0,0.35
+Sewing thread,m,70.0,0.05,0.003
+Labels,set,1.0,0.0,0.05
+Logo consumables,set,1.0,0.0,0.08

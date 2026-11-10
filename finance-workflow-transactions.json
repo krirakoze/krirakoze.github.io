@@ -1,0 +1,47 @@
+[
+  {
+    "id": "t0",
+    "account": "checking",
+    "transaction_at": "2026-11-01T08:00:00-07:00",
+    "description": "Recorded monthly income",
+    "type": "income",
+    "amount": "2800.00",
+    "status": "cleared"
+  },
+  {
+    "id": "t1",
+    "account": "checking",
+    "transaction_at": "2026-11-28T09:00:00-07:00",
+    "description": "Electricity",
+    "type": "expense",
+    "amount": "150.00",
+    "status": "scheduled"
+  },
+  {
+    "id": "t2",
+    "account": "checking",
+    "transaction_at": "2026-11-29T09:00:00-07:00",
+    "description": "Insurance",
+    "type": "expense",
+    "amount": "250.00",
+    "status": "scheduled"
+  },
+  {
+    "id": "t3",
+    "account": "checking",
+    "transaction_at": "2026-11-30T08:00:00-07:00",
+    "description": "Paycheck",
+    "type": "income",
+    "amount": "500.00",
+    "status": "scheduled"
+  },
+  {
+    "id": "t4",
+    "account": "checking",
+    "transaction_at": "2026-11-30T17:00:00-07:00",
+    "description": "Rent",
+    "type": "expense",
+    "amount": "1100.00",
+    "status": "scheduled"
+  }
+]
